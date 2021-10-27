@@ -1,5 +1,7 @@
 # ReStore - React & .NET 5 project
 
+# Back-End
+
 - Create dotnet project
 
   - dotnet new sln(root folder of project)
@@ -23,3 +25,9 @@
   - Type 'dotnet ef database update'
     - This will update DB using migration file that was created previously
       and if there is not database, it will create the DB
+
+# Front-End
+
+- Create application
+  - Type 'npx create-react-app client --template typescript --use-npm'
+  - Means 'npx create-react-app <'folder name'> --template <'using script name'> --use-npm'
