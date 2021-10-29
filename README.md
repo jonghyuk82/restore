@@ -29,5 +29,9 @@
 # Front-End
 
 - Create application
+
   - Type 'npx create-react-app client --template typescript --use-npm'
   - Means 'npx create-react-app <'folder name'> --template <'using script name'> --use-npm'
+
+- Installing React-Router
+  - type 'npm install react-router-dom @types/react-router-dom' in client folder
