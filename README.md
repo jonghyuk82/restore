@@ -34,4 +34,8 @@
   - Means 'npx create-react-app <'folder name'> --template <'using script name'> --use-npm'
 
 - Installing React-Router
+
   - type 'npm install react-router-dom @types/react-router-dom' in client folder
+
+- Install Axios to fetch the data
+  - type 'npm install axios' on the terminal in client folder
