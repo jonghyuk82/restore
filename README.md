@@ -38,4 +38,8 @@
   - type 'npm install react-router-dom @types/react-router-dom' in client folder
 
 - Install Axios to fetch the data
+
   - type 'npm install axios' on the terminal in client folder
+
+- Usiing toast notification
+  - type 'npm install react-toastify' on the terminal in client folder
