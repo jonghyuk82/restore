@@ -25,6 +25,10 @@
   - Type 'dotnet ef database update'
     - This will update DB using migration file that was created previously
       and if there is not database, it will create the DB
+  - Adding another migrations
+    - Type 'dotnet ef migrations add "migration's name"'
+  - Remove migrations
+    - Type 'dotnet ef migrations remove'
 
 # Front-End
 
