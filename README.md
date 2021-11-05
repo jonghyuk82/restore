@@ -20,6 +20,7 @@
     - Type 'dotnet ef' on the terminal to check command list
 
 - DB migration
+
   - Type 'dotnet ef migrations add InitialCreate -o Data/Migrations' on the terminal
     - This will create migration folder and files in the Data folder
   - Type 'dotnet ef database update'
@@ -29,6 +30,9 @@
     - Type 'dotnet ef migrations add "migration's name"'
   - Remove migrations
     - Type 'dotnet ef migrations remove'
+
+- Passing localhost cookies to front end
+  - adding '.AllowCredetial()' in the Startup.cs filse where Cors setup states.
 
 # Front-End
 
