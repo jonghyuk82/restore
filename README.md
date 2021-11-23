@@ -50,4 +50,12 @@
   - type 'npm install axios' on the terminal in client folder
 
 - Usiing toast notification
+
   - type 'npm install react-toastify' on the terminal in client folder
+
+- Installing Redux
+
+  - type 'npm install redux react-redux' on the terminal in client folder
+
+- Installing Redux tool
+  - type 'npm install @reduxjs/toolkit' on the terminal in client folderß
