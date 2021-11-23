@@ -1,5 +1,4 @@
 import { createSlice } from '@reduxjs/toolkit'
-import { stat } from 'fs'
 import { Basket } from './../../app/models/basket'
 interface BasketState {
   basket: Basket | null
